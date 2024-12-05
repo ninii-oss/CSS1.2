@@ -1,0 +1,114 @@
+body {
+    margin: 20px;
+    font-family: "Lato", sans-serif;
+}
+
+#header {
+    text-align: center;
+}
+
+.div-container {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
+
+#staryNight {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 48px;
+    width: 568px;
+    height: 48px;
+}
+
+.div-text {
+    width: 568px;
+    height: 96px;
+    font-size: 20px;
+    gap: 10px;
+    text-align: center;
+}
+
+.list-container {
+    width: 568px;
+    margin-top: 10px;
+    text-align: justify;
+    color: #155EEF;
+}
+
+.list-child {
+    padding-left: 20px;
+    margin: 0;
+}
+
+.readMore {
+    color: rgb(255, 183, 0);
+    padding: 12px 32px;
+    border: 2px solid rgb(255, 183, 0);
+    display: inline-block;
+    font-size: 24px;
+}
+
+#magicContainer {
+    width: 722px;
+    height: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    font-size: 40px;
+
+}
+
+#twoDivContainer {
+    font-weight: 400;
+    font-size: 20px;
+    width: 722px;
+    height: 72px;
+    line-height: 24px;
+    text-align: center;
+}
+
+#greenId {
+    text-align: center;
+    color: #00C76E;
+    font-size: 20px;
+    line-height: 24px;
+    width: 722px;
+    font-weight: 400;
+}
+
+#secondListContainer {
+    color: #FF5DA3;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 461px;
+    height: 72px;
+}
+
+#borderDiv {
+    background-color: #FFDEF0;
+    padding: 12px 32px;
+    color: #C27512;
+    margin: 10px;
+    width: 722px;
+    border: 6px solid#C11574;
+}
+
+#questConteiner {
+    display: inline;
+    color: #414651;
+    font-size: 24px;
+    width: 690px;
+    font-weight: 800;
+    height: 24px;
+}
+
+#lastContainer {
+    color: #00D4BC;
+    text-decoration: underline;
+    text-align: center;
+    size: 24px;
+    margin: 30px;
+}
